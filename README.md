@@ -2,7 +2,7 @@
   <img src="svg/overkilldev.svg" width="1200" alt="overkill" />
 </a>
 
-![](https://raw.githubusercontent.com/overkillzero/overkillzero/main/svg/snake.svg)
+![](https://raw.githubusercontent.com/zeperix/zeperix/main/svg/snake.svg)
 
 <h2 align="center">🛠 Languages 🛠</h2>
 <br>
@@ -32,10 +32,10 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
   <a href="#" title="OverKill DEV">
-    <img width="434" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overkillzero&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="434" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeperix&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="OverKill DEV">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=overkillzero&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=zeperix&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 
 
